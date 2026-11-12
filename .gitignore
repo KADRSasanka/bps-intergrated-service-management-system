@@ -1,3 +1,23 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# Visual Studio generated files
+*.suo
+*.user
+*.cache
+
+# Build folders
+bin/
+obj/
+
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
 # Logs
 logs
 *.log

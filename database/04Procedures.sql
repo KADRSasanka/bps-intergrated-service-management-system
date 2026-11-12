@@ -1,6 +1,5 @@
 /* =====================================================================
    04_procedures.sql  -  BPS_ServiceDB
-   Run after 01_tables.sql (and 02). Safe to re-run (CREATE OR ALTER).
 
    ERROR CODES (THROW). The Laravel API maps these to HTTP responses:
      50001  Hall already booked for this period            -> 409
